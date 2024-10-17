@@ -1,0 +1,17 @@
+entity\Course.class
+boundary\ProgrammeMenu.class
+controller\CourseCRUD.class
+entity\Tutors.class
+adt\ListInterface.class
+entity\Programme.class
+entity\Student.class
+entity\TutorialGroup.class
+boundary\TutorialGroupUi.class
+entity\Semester.class
+controller\ProgrammeCRUD.class
+boundary\CourseMenu.class
+boundary\MainMenu.class
+boundary\TutorMenu.class
+controller\Tutor.class
+controller\TutorialGroupDriver.class
+adt\ArrayList.class
